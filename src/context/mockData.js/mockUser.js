@@ -1,4 +1,4 @@
-export default {
+const mockUser = {
   "login": "Asensio0227",
   "id": 83821620,
   "node_id": "MDQ6VXNlcjgzODIxNjIw",
@@ -31,4 +31,6 @@ export default {
   "following": 250,
   "created_at": "2021-05-07T12:34:17Z",
   "updated_at": "2022-07-25T20:28:01Z"
-}
+};
+
+export default mockUser;
